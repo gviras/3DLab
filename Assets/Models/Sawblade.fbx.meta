@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: bb1faeb994d431b4eb872336ff6f4f25
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1565937593473639013
+    second: Cylinder|Cylinder.001Action
+  - first:
+      74: 5100070300365281523
+    second: Cylinder|Cylinder.002Action
+  - first:
+      74: -88723805440604879
+    second: Cylinder|CylinderAction
+  - first:
+      74: -6242241587816052237
+    second: Cylinder|CylinderAction.001
+  - first:
+      74: -4659029655694538174
+    second: Cylinder|Shader NodetreeAction
+  - first:
+      74: 2193181345042543398
+    second: Cylinder|Shader NodetreeAction.001
+  - first:
+      74: 5457968995836183800
+    second: Cylinder|Shader NodetreeAction.002
+  - first:
+      74: -3315544378689175414
+    second: Cylinder|TorusAction
+  - first:
+      74: 3936550650637524798
+    second: Cylinder.001|Cylinder.001Action
+  - first:
+      74: -5525172884732378176
+    second: Cylinder.001|Cylinder.002Action
+  - first:
+      74: 3602085371921796995
+    second: Cylinder.001|CylinderAction
+  - first:
+      74: 4639736067092989289
+    second: Cylinder.001|CylinderAction.001
+  - first:
+      74: -5037741821906862003
+    second: Cylinder.001|Shader NodetreeAction
+  - first:
+      74: -6143600414532565062
+    second: Cylinder.001|Shader NodetreeAction.001
+  - first:
+      74: 6170513076830976367
+    second: Cylinder.001|Shader NodetreeAction.002
+  - first:
+      74: -582326914283162397
+    second: Cylinder.001|TorusAction
+  - first:
+      74: 7317901949878717092
+    second: Cylinder.002|Cylinder.001Action
+  - first:
+      74: -2388811887902066691
+    second: Cylinder.002|Cylinder.002Action
+  - first:
+      74: 3149465394390671080
+    second: Cylinder.002|CylinderAction
+  - first:
+      74: -6974663243432506211
+    second: Cylinder.002|CylinderAction.001
+  - first:
+      74: 2321356080077882299
+    second: Cylinder.002|Shader NodetreeAction
+  - first:
+      74: -6490733448787059797
+    second: Cylinder.002|Shader NodetreeAction.001
+  - first:
+      74: -8408777030285488382
+    second: Cylinder.002|Shader NodetreeAction.002
+  - first:
+      74: 6108712340668909421
+    second: Cylinder.002|TorusAction
+  - first:
+      74: -152450845142253238
+    second: Torus|Cylinder.001Action
+  - first:
+      74: -463714773084789616
+    second: Torus|Cylinder.002Action
+  - first:
+      74: 1350157085881549431
+    second: Torus|CylinderAction
+  - first:
+      74: -9048320543820412601
+    second: Torus|CylinderAction.001
+  - first:
+      74: 8081071129486520045
+    second: Torus|Shader NodetreeAction
+  - first:
+      74: 498222965560107720
+    second: Torus|Shader NodetreeAction.001
+  - first:
+      74: 8754902958421410134
+    second: Torus|Shader NodetreeAction.002
+  - first:
+      74: -8730468044713431094
+    second: Torus|TorusAction
+  - first:
+      74: -623603649343465320
+    second: Spinning
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 26e928eaeea01924cb27d3470e9bfee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 06d9171ab03de9e46b62a03943efa03d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Middle of the blade
+    second: {fileID: 2100000, guid: 25ab64320bc923d499983033611a94df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sawblade
+    second: {fileID: 2100000, guid: de0b9e3c8a88f754386ef5b56c0301f4, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Spinning
+      takeName: Scene
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+Sun Mar 07 12:21:21 2021 UTC - GameOverlay process started: pid: 15092
+Sun Mar 07 12:21:21 2021 UTC - GameOverlay process connecting to: pid: 10776
+Sun Mar 07 12:21:21 2021 UTC - BuildID: 1613176728
+Sun Mar 07 12:21:21 2021 UTC - Steam Path: C:\Program Files (x86)\Steam
+Sun Mar 07 12:21:21 2021 UTC - Got gameid on commandline: 730
+Sun Mar 07 12:21:32 2021 UTC - Warning: The game hasn't rendered a frame from us in over 10 seconds
+Sun Mar 07 12:24:59 2021 UTC - Warning: The game hasn't rendered a frame from us in over 10 seconds
+Sun Mar 07 13:08:32 2021 UTC - Game Exit Event signaled.
+Sun Mar 07 13:08:32 2021 UTC - Shutting down overlay
